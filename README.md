@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akash Bhardwaj
-- 👀 I’m interested in React,Typescript
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on React Projects
+- 👀 I’m a FullStack Engineer (MERN)
+- 🌱 I’m currently learning NestJs
+- 💞️ I’m looking to collaborate on React/NextJs Typescript Projects
 - 📫 How to reach me akash1999aug@gmail.com
 
 <!---
